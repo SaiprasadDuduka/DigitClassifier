@@ -14,4 +14,5 @@ For handwritten digit recognition, run the digitClassifier.py file it uses the D
 <img src= "images/predict_num.png">
 
 For checking the accruacy of the trained model run the accuracy.py file
+
 To add new training dataset, run the dataset_creator.py file and add new training data into dataset.csv file
