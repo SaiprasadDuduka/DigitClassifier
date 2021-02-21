@@ -3,7 +3,7 @@ Classifies Handwritten digits using python sklearn library
 
 Simple paint program created using pygame which is used to give the handwritten input to the classifier
 
-For handwritten digit recognition, run the digitClassifier.py file it uses the DecisionTreeClassifier imported from sklearn.tree
+For handwritten digit recognition, run the <b>digitClassifier.py<b> file it uses the DecisionTreeClassifier imported from sklearn.tree
 
 <b> 1. Draw the number on the window: </b>
 
